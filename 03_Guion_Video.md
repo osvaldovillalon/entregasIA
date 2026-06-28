@@ -8,8 +8,7 @@
 
 ## 🔗 Enlace al Video (YouTube)
 
-> **[Insertar enlace de YouTube aquí]**  
-> *(Actualiza este enlace después de subir el video en YouTube en modalidad "No listado")*
+https://youtu.be/hN0BIpm4H9I
 
 ---
 
